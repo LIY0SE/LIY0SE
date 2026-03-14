@@ -1,46 +1,32 @@
-<!-- PROFILE BANNER GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</p>
 # Hi there 👋 I'm LIY0SE
-
 💻 Passionate Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner  
+
+<!-- PROFILE BANNER GIF - Full Width -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" height="auto">
+</p>
 
 ---
 
-## 🔭 I’m currently working on
+## 🔭 I'm currently working on
 - Building personal coding projects
 - Learning new technologies
 - Improving my GitHub profile
 
-## 🌱 I’m currently learning
+## 🌱 I'm currently learning
 - JavaScript
 - Python
 - Web Development
 
-## 👯 I’m looking to collaborate on
-- Open source projects
-- Beginner-friendly projects
-- Innovative tech ideas
-
-## 🤔 I’m looking for help with
-- Advanced programming concepts
-- Best coding practices
-
-## 💬 Ask me about
-- Programming
-- Technology
-- GitHub
-
 ## 📫 How to reach me
-- GitHub: https://github.com/LIY0SE
-- Email: your-email@example.com
+- GitHub: [https://github.com/LIY0SE](https://github.com/LIY0SE)
+- Email: [liyoseeldhose@gmail.com](mailto:liyoseeldhose@gmail.com)
 
 ## 😄 Pronouns
 He / Him
 
 ## ⚡ Fun fact
-I turn coffee ☕ into code 💻
+I turn Music  into code 💻
 
 ---
 
@@ -59,5 +45,13 @@ I turn coffee ☕ into code 💻
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIY0SE&layout=compact&theme=tokyonight)
 
 ---
+
+<!-- ANIMATED GIF ROW -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="22%" hspace="5">
+  <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" width="22%" hspace="5">
+  <img src="https://user-images.githubusercontent.com/74038190/216658115-017b0125-1bba-409d-b789-c04362c0adfb.gif" width="22%" hspace="5">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="22%" hspace="5">
+</p>
 
 ⭐ **Thanks for visiting my profile!**
